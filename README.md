@@ -1,4 +1,4 @@
-# shop
+# Shop
 GarageSale Web Application
 
-This is one of my projects, done by using Laravel MVC Framework. You can visit website on garagesale.byethost6.com
+This repository contains some codes of one of my projects. This project is done by using PHP Laravel MVC Framework, JS, Bootstrap and etc. You can visit website on garagesale.byethost6.com or herseymarket.com.
